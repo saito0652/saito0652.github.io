@@ -1,0 +1,5 @@
+Makefile
+_cache/
+stack.yaml
+stack.yaml.lock
+my-site.cabal
